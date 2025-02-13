@@ -1,5 +1,5 @@
 {
-  "name": "cyan-chaos",
+  "name": "Blog",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "astro": "^5.2.6"
-  }
+  },
+  "main": "index.js",
+  "author": "Josue Padilla <padillajosueezequiel@gmail.com>",
+  "license": "MIT"
 }
